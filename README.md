@@ -1,7 +1,7 @@
 # Drive Safe
 Road Accident become a frequent inciedent of our life. Due to reckless driving many people got injured and many died.
 
-Due to Current record system all of the incident are tracked in papers as hard copy. So to get the past history of a driver, people have to traverse in these filed and much time waste on this.
+Due to Current record system all of the incident are tracked in papers as hard copy. So to get the past history of a driver, people have to traverse in these file and much time waste on this.
 
 As a result many reckless driver got unpunished, roam free and many cause more damage to lives.
 
